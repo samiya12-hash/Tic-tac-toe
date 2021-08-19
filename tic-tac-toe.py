@@ -245,4 +245,4 @@ setup_alert()
 
 
 # if you can't play the game remove the following line 
-#input("Press any key..")
+input("Press any key..")
